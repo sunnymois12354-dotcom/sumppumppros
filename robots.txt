@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{SITE_BASE_URL}}/sitemap.xml
+Sitemap: "https://sumppumppros.netlify.app/sitemap.xml
