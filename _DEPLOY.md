@@ -16,7 +16,7 @@ caps at ~20,000 files — fine for a capped build, not an all-cities one.
 ## Custom domain + SEO
 - If you entered your domain before generating, canonicals, sitemap.xml,
   robots.txt and JSON-LD schema already point to it — nothing to edit.
-- If not, find-and-replace `{{SITE_BASE_URL}}` with `https://yourdomain.com`
+- If not, find-and-replace `"https://sumppumppros.netlify.app/` with `https://yourdomain.com`
   across the .html / .xml / .txt files before uploading.
 - Submit `https://yourdomain.com/sitemap.xml` to Google Search Console.
 
